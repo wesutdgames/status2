@@ -1,6 +1,6 @@
 {
-  "status": "stopped",
-  "expires_at": "2026-07-01T22:56:34.311Z",
-  "reason": "R2",
-  "last_updated": "2026-07-01T22:31:34.858Z"
+  "status": "operating",
+  "expires_at": "",
+  "reason": "R0",
+  "last_updated": "2026-07-01T22:37:17.322Z"
 }
